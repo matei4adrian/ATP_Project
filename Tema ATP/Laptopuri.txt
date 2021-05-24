@@ -1,0 +1,21 @@
+Nr. Nume laptop                    Firma      Tip stocare Memorie interna (GB) Memorie RAM (GB) Procesor   Tip placa video
+1    TUF                            ASUS       SSD   512  8   AMD        Dedicata        
+2    Envy                           HP         HDD   512  4   Intel      Integrata       
+3    Pavilion                       HP         SSD   256  8   Intel      Dedicata        
+4    MacBook                        APPLE      SSD   128  8   AMD        Integrata       
+5    MacBookAir                     APPLE      SSD   128  8   AMD        Integrata       
+6    MacBookPro                     APPLE      SSD   512  16  AMD        Integrata       
+7    Aspire                         ACER       HDD   1000 8   Intel      Dedicata        
+8    Inspiron                       DELL       SSD   256  8   Intel      Integrata       
+9    IdeaPad                        LENOVO     SSD   256  4   Intel      Integrata       
+10   ROGStrix                       ASUS       SSD   512  16  Intel      Dedicata        
+11   VivoBook                       ASUS       HDD   1000 8   Intel      Integrata       
+12   Legion                         LENOVO     SSD   512  8   Intel      Dedicata        
+13   MateBook                       HUAWEI     SSD   256  8   AMD        Integrata       
+14   ZenBook                        ASUS       SSD   256  8   AMD        Integrata       
+15   PredatorHelios                 ACER       SSD   1000 16  Intel      Dedicata        
+16   Omen                           HP         SSD   512  8   Intel      Dedicata        
+17   Nitro5                         ACER       SSD   256  8   Intel      Dedicata        
+18   Nitro7                         ACER       SSD   512  16  Intel      Dedicata        
+19   Stealth                        MSI        SSD   512  16  Intel      Dedicata        
+20   AllbookQ                       ALLVIEW    SSD   256  8   Intel      Integrata       
